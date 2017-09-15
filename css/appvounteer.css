@@ -1,0 +1,71 @@
+/************************************************
+General
+************************************************/
+.wrap{
+  width: 93%;
+  margin: auto;
+}
+/************************************************
+Navigation
+************************************************/
+.top-bar{
+background-color:rgb(0, 0, 0);
+}
+.top-bar ul{
+background-color:rgb(0, 0, 0);
+}
+.top-bar h1, .top-bar a{
+color: rgb(225, 224, 225);
+font-weight: inherit;
+font-family: 'Jim Nightshade', cursive;
+}
+a:hover{
+  color: white;
+}
+/************************************************
+Header
+************************************************/
+.header{
+  text-align: center;
+}
+
+
+
+/************************************************
+Main
+************************************************/
+.main{
+padding: 1em 0;
+background-color: black;
+}
+.main h3{
+  color: white
+}
+.main p{
+  color: white;
+}
+.main img{
+  height: 18em;
+  width: 18em;
+
+}
+
+/************************************************
+Footer
+************************************************/
+.footer{
+text-align: center;
+color:white;
+background-color: black;
+padding: 1em 0;
+}
+.footer h3{
+  color: white;
+}
+.footer a{
+  color: rgb(225, 225, 225);
+}
+.footer img{
+  height: 6em;
+  width: 6em;
+}
