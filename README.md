@@ -1,1 +1,1 @@
-# ghuaqui.github.io
+# georgehptech.github.io
